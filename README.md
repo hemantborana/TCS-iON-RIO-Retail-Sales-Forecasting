@@ -245,7 +245,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## 👤 Author
 
-**[Your Name]**
+**Hemant Parasmal Borana**
 - **Program**: TCS iON RIO 125 Internship
 - **LinkedIn**: [https://www.linkedin.com/in/hemant-parasmal-borana-17a742289]
 - **Email**: [hemantpb123@gmail.com]
