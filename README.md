@@ -120,3 +120,42 @@ This project develops a comprehensive **Retail Sales Forecasting System** that p
 ```bash
 Python 3.8+
 pip package manager
+
+🤝 Contributing
+This is an internship project, but suggestions and feedback are welcome:
+
+Fork the repository
+Create a feature branch
+Make your improvements
+Submit a pull request
+
+📄 License
+This project is licensed under the MIT License - see the LICENSE file for details.
+👤 Author
+[Your Name]
+
+Internship: TCS iON RIO 125 Program
+LinkedIn: [Your LinkedIn Profile]
+Email: [Your Email]
+GitHub: [Your GitHub Profile]
+
+🙏 Acknowledgments
+
+TCS iON for providing the RIO 125 internship opportunity
+Mentors and Guides for their support throughout the project
+Python Data Science Community for excellent libraries and resources
+
+📈 Future Roadmap
+
+Real-time data integration
+Interactive dashboard development
+Deep learning models (LSTM, GRU)
+Mobile application for managers
+Cloud deployment and API development
+
+
+<div align="center">
+⭐ If this project helped you, please give it a star! ⭐
+Built with ❤️ for TCS iON RIO 125 Internship
+</div>
+```
