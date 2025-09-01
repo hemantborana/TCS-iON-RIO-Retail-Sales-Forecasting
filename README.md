@@ -120,6 +120,7 @@ This project develops a comprehensive **Retail Sales Forecasting System** that p
 ```bash
 Python 3.8+
 pip package manager
+'''
 
 ##🤝 Contributing
 -This is an internship project, but suggestions and feedback are welcome:
@@ -158,4 +159,3 @@ Cloud deployment and API development
 ⭐ If this project helped you, please give it a star! ⭐
 Built with ❤️ for TCS iON RIO 125 Internship
 </div>
-```
