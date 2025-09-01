@@ -125,7 +125,7 @@ pip package manager
 ### Installation
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/TCS-iON-RIO-Retail-Sales-Forecasting.git
+git clone https://github.com/hemantborana/TCS-iON-RIO-Retail-Sales-Forecasting.git
 cd TCS-iON-RIO-Retail-Sales-Forecasting
 
 # Create virtual environment
@@ -152,7 +152,7 @@ plotly>=5.15.0
 ### Quick Start
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/TCS-iON-RIO-Retail-Sales-Forecasting.git
+git clone https://github.com/hemantborana/TCS-iON-RIO-Retail-Sales-Forecasting.git
 cd TCS-iON-RIO-Retail-Sales-Forecasting
 
 # Install dependencies
@@ -247,9 +247,9 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 **[Your Name]**
 - **Program**: TCS iON RIO 125 Internship
-- **LinkedIn**: [Your LinkedIn Profile]
-- **Email**: [Your Email Address]
-- **GitHub**: [Your GitHub Profile]
+- **LinkedIn**: [https://www.linkedin.com/in/hemant-parasmal-borana-17a742289]
+- **Email**: [hemantpb123@gmail.com]
+- **GitHub**: [https://github.com/hemantborana/]
 
 ## 🙏 Acknowledgments
 
