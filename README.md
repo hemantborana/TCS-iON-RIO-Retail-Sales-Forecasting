@@ -121,13 +121,13 @@ This project develops a comprehensive **Retail Sales Forecasting System** that p
 Python 3.8+
 pip package manager
 
-🤝 Contributing
-This is an internship project, but suggestions and feedback are welcome:
+##🤝 Contributing
+-This is an internship project, but suggestions and feedback are welcome:
 
-Fork the repository
-Create a feature branch
-Make your improvements
-Submit a pull request
+-Fork the repository
+-Create a feature branch
+-Make your improvements
+-Submit a pull request
 
 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
